@@ -96,7 +96,7 @@ password: 123123123
 
 <p>La base de datos utilizada fue SQL y se usa el ORM Eloquent de Laravel para interactuar esta</p>
 
-<p>A continuación el diagrama de realacines de las tablas utilizadas para la aplicación:</p>
+<p>A continuación el diagrama de relaciones de las tablas utilizadas para la aplicación:</p>
 
 
 <img src="./readmeFiles/diagram.jpg" alt="diagram" >

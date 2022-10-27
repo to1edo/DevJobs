@@ -89,6 +89,19 @@ password: 123123123
 </ul>
 
 <hr>
+
+  <li>
+    Notificación de nuevas postulaciones:
+    <img src="./readmeFiles/notification.jpg" alt="notification" >
+    
+    Cada vez que un nuevo desarrollador se postule a una vacante, el reclutador recibe un correo de notificación con la información
+
+    
+  </li>
+  
+</ul>
+
+<hr>
 <hr>
 
 <h2>Base de datos:</h2>

@@ -22,6 +22,7 @@ password: 123123123
 <ul>
   <li>
     Panel de autenticación para el Login:
+      <br>
     <img src="./readmeFiles/login.jpg" alt="login" >
   </li>
 

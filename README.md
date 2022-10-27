@@ -22,6 +22,7 @@ password: 123123123
 <ul>
   <li>
     Panel de autenticación para el Login:
+      <br>
     <img src="./readmeFiles/login.jpg" alt="login" >
   </li>
 
@@ -29,6 +30,7 @@ password: 123123123
 
   <li>
     Panel para crear cuenta:
+    <br>
     <img src="./readmeFiles/register.jpg" alt="register" >
   </li>
   
@@ -108,7 +110,7 @@ password: 123123123
 
 <p>La base de datos utilizada fue SQL y se usa el ORM Eloquent de Laravel para interactuar esta</p>
 
-<p>A continuación el diagrama de realacines de las tablas utilizadas para la aplicación:</p>
+<p>A continuación el diagrama de relaciones de las tablas utilizadas para la aplicación:</p>
 
 
 <img src="./readmeFiles/diagram.jpg" alt="diagram" >

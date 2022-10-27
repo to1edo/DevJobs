@@ -9,6 +9,7 @@
             <p class="p-2 text-center bg-green-300 text-green-600 font-semibold">Ya te has postulado a esta vacante, mucha suerte!</p>
         @else
             <form class="bg-gray-300 p-6 rounded-xl space-y-5" wire:submit.prevent ='postularVacante' enctype="multipart/form-data">
+                @csrf
                 <p class="text-center text-xl font-bold">Postularse a esta vacante</p>
                 
                 <x-input-label for="cv" :value="__('Hoja de vida o CV (PDF)')" class="mt-8"  />

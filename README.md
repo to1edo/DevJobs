@@ -29,6 +29,7 @@ password: 123123123
 
   <li>
     Panel para crear cuenta:
+    <br>
     <img src="./readmeFiles/register.jpg" alt="register" >
   </li>
   
